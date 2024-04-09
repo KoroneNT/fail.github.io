@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 15px;
+    padding: 15px 50px;
+    float: right;
+    width: 30%;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+}
+button{
+    width: 100%;
+    padding: 15px 100px;
+    margin: 15px 10px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+}
+.mid, input{
+    width: 330px;
+    padding: 15px 3px;
+    margin: 15px 3px;
+    
+    
+}
+.end{
+    width: 80%;
+    padding: 5px 20px;
+    margin: 5px 10px;
+    
+}
